@@ -95,9 +95,3 @@ This project is made for educational and ethical testing purposes only. Usage of
 The project is licensed under MIT License.
 
 
-# **Author** #
-*Mazin Ahmed*
-* Website: [https://mazinahmed.net](https://mazinahmed.net)
-* Email: *mazin AT mazinahmed DOT net*
-* Twitter: [https://twitter.com/mazen160](https://twitter.com/mazen160)
-* Linkedin: [http://linkedin.com/in/infosecmazinahmed](http://linkedin.com/in/infosecmazinahmed)
